@@ -110,6 +110,48 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
+    ysgc: {
+        api: 'https://cj.lziapi.com/api.php/provide/vod/',
+        name: '影视工厂'
+    },
+    wlzy: {
+        api: 'https://collect.wolongzy.cc/api.php/provide/vod/',
+        name: '卧龙资源'
+    },
+    wjzy: {
+        api: 'https://api.wujinapi.com/api.php/provide/vod/',
+        name: '无尽资源'
+    },
+    sdzy: {
+        api: 'https://sdzyapi.com/api.php/provide/vod/',
+        name: '闪电资源'
+    },
+    tkzy: {
+        api: 'https://api.tiankongapi.com/api.php/provide/vod/',
+        name: '天空资源'
+    },
+    fszy: {
+        api: 'https://www.feisuzy.com/api.php/provide/vod/',
+        name: '飞速资源'
+    },
+    hnzy: {
+        api: 'https://www.hongniuziyuan.com/inc/api.php',
+        name: '红牛资源'
+    },
+    kczy: {
+        api: 'https://caiji.kczyapi.com/api.php/provide/vod/',
+        name: '快车资源'
+    },
+    ftys: {
+        api: 'https://www.fantuan.tv/api.php/provide/vod/',
+        name: '饭团影视'
+    },
+    qqzy: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod/',
+        name: '七七资源'
+    },
+};
+    
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
